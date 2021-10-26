@@ -16,7 +16,7 @@
 ```
 
 # parabirb
-hi! i write shitty software with a special focus on cryptography, and also currently intern at [coinpilot](https://coinpilot.com).
+hi! i write software with a special focus on cryptography, and also currently intern at [coinpilot](https://coinpilot.com).
 
 ## licensing
 all projects on my github are public domain unless explicitly stated otherwise.
