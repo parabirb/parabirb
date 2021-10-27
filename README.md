@@ -26,7 +26,7 @@ all commits will be signed with GPG. my key fingerprint is `07F988C86662F3821CEC
 
 ## my work
 ### antisocial (October 2021-present)
-I am currently working on the new project antisocial with other people. antisocial is a secure and encrypted social media platform. We plan on a production release by January 2022.
+I am currently working on antisocial, a secure and encrypted social media platform. We plan on a production release by January 2022.
 ### Coinpilot (October 2021-present)
 I intern at Coinpilot, where I work on issues with the website.
 ### birb.digital (March 2021-present)
