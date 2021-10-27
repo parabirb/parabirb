@@ -30,6 +30,6 @@ I am currently working on antisocial, a secure and encrypted social media platfo
 ### Coinpilot (October 2021-present)
 I intern at Coinpilot, where I work on issues with the website.
 ### birb.digital (March 2021-present)
-I invented, developed, and currently work on secure software such as the wrongthink peer-to-peer messenger and the double-ratchet cryptographic protocol library written in pure JS.
+I invented, developed, and currently work on secure software such as the wrongthink peer-to-peer messenger and the double-ratchet pure-JS library.
 ### ??? (October 2020-August 2021)
 I worked on cutting-edge educational security research, the best of its kind in history, with other people. We stopped after intervention from certain authorities.
