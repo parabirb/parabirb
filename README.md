@@ -16,7 +16,7 @@
 ```
 
 # parabirb
-hi! i write software with a special focus on cryptography, and also currently intern at [coinpilot](https://coinpilot.com). most of my work is in javascript.
+hey! i write software with a special focus on cryptography, and also currently intern at [coinpilot](https://coinpilot.com). most of my work is in javascript. you can reach me at parabirb#7775 on discord.
 
 ## licensing
 all projects on my github are public domain unless explicitly stated otherwise.
