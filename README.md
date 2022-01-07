@@ -14,6 +14,6 @@ i created and work on fun stuff like the wrongthink messenger on occasion.
 ### ??? (october 2020-august 2021)
 i worked on really cool cutting-edge educational security research before i had to stop for legal reasons.
 ### emulsio (december 2021-present)
-i am currently working on impotent cock, providing resources for developers to sell their games with low fees using the hedera network with features such as transferable licenses.
+i am currently working on emulsio, providing resources for developers to sell their games with low fees using the hedera network with features such as transferable licenses.
 
 ![](https://discord.c99.nl/widget/theme-1/884967775066550313.png)
