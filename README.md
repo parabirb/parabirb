@@ -12,7 +12,7 @@ i intern at coinpilot from time to time. i am also a founding member of coinpilo
 ### birb.digital (march 2021-present)
 i created and work on fun stuff like the wrongthink messenger on occasion.
 ### ??? (october 2020-august 2021)
-i worked on really cool cutting-edge educational security research before i had to stop for legal reasons.
+i worked on really cool cutting-edge educational security research before i had to stop for legal reasons. will probably go mask off about the district one day.
 ### coinpilot tech (january 2022-present)
 ![](https://i.ytimg.com/vi/pY27fym_RfI/hqdefault.jpg)
 
