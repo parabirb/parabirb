@@ -7,8 +7,8 @@ all commits are signed with gpg. my key fingerprint is `07F988C86662F3821CEC1E39
 ## my work
 ### coinpilot (october 2021-present)
 i intern at coinpilot from time to time. i am also a founding member of coinpilot tech.
-### birb.digital (march 2021-present)
-i created and work on fun stuff like the wrongthink messenger on occasion.
+### wrongthink (march 2021-january 2023)
+i created and worked on fun stuff like the wrongthink messenger on occasion.
 ### ??? (october 2020-august 2021)
 i worked on really cool cutting-edge educational security research before i had to stop for legal reasons.
 ### ????? (january 2022-present)
