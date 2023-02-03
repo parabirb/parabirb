@@ -11,7 +11,7 @@ i intern at coinpilot from time to time. i am also a founding member of coinpilo
 i created and worked on fun stuff like the wrongthink messenger on occasion.
 ### ??? (october 2020-august 2021)
 i worked on really cool cutting-edge educational security research before i had to stop for legal reasons.
-### ????? (january 2022-present)
+### ????? (january 2023-present)
 soon...
 
 ![](https://discord.c99.nl/widget/theme-1/884967775066550313.png)
