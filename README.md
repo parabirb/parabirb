@@ -1,5 +1,5 @@
 # parabirb
-hi! i'm a 17yo dude who writes software with a special focus on cryptography, mostly in javascript.
+hi! i'm a 17yo who writes software with a special focus on cryptography, mostly in javascript.
 
 if you need to reach me, you can email me at birb (at) pry (dot) dog, or on mastodon. i'm also on signal (you can request it by contacting me on either of those platforms).
 
