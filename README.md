@@ -13,5 +13,5 @@ i interned at coinpilot from time to time. i was also a founding member of coinp
 i created and worked on fun stuff like the wrongthink messenger on occasion.
 ### ??? (october 2020-august 2021)
 i worked on really cool cutting-edge educational security research before i had to stop for legal reasons.
-### mainichi sakana (august 2023-present)
-i'm the lead dev and writer on a terminal game! more info coming soon :3
+### ame (march 2024-present)
+i'm the web dev for ame, an AI assistant framework by [Expl0dingCat](https://github.com/Expl0dingCat).
