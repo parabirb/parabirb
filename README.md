@@ -1,7 +1,7 @@
 # parabirb
 hi! i'm a 17yo who writes software with a special focus on cryptography, mostly in javascript.
 
-if you need to reach me, you can email me at birb (at) pry (dot) dog, or on mastodon. i'm also on signal (you can request it by contacting me on either of those platforms).
+if you need to reach me, you can email me at me (at) birb (dot) works. you can also reach me on signal: @birb.1312.
 
 ## gpg
 all commits are signed with gpg. my key fingerprint is `07F988C86662F3821CEC1E39BFB779869FEE99D2` (sometimes commits may be signed through github's website, although rarely). you can get my key [here](https://keys.openpgp.org/vks/v1/by-fingerprint/07F988C86662F3821CEC1E39BFB779869FEE99D2). vigilant mode is enabled, so you can check whether my commits are signed or not in the commit history. i sign every commit as of november 2021.
