@@ -14,4 +14,4 @@ i created and worked on fun stuff like the wrongthink messenger on occasion.
 ### coinpilot (october 2021-march 2023)
 i interned at coinpilot from time to time. i was also a founding member of coinpilot tech. i have since departed coinpilot on good terms.
 ### ame (march 2024-present)
-i'm the web dev for ame, an AI assistant framework by [Expl0dingCat](https://github.com/Expl0dingCat).
+i'm the web dev for ame, an AI assistant framework by [Expl0dingCat](https://github.com/Expl0dingCat). additionally, i am the sole dev of [tsuyu](https://github.com/parabirb/Tsuyu), the javascript reimplementation of ame.
