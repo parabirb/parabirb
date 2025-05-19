@@ -1,4 +1,4 @@
-# parabirb
+# parabirb :3c
 hi! i'm an 18yo who writes software with a special focus on cryptography, mostly in javascript.
 
 if you need to reach me, you can email me at me (at) birb (dot) works. you can also reach me on signal: @birb.386.
