@@ -1,5 +1,5 @@
 # parabirb :3c
-hi! i'm a 19 y/o who writes software with a special focus on cryptography, mostly in javascript. i'm also a professional software engineer for work!
+hi! i'm a 20 y/o who writes software with a special focus on cryptography, mostly in javascript. i also used to be a professional software engineer for work.
 
 if you need to reach me, you can email me at me (at) birb (dot) works. you can also reach me on signal: @birb.386.
 
